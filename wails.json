@@ -1,0 +1,10 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "go-app-poc",
+  "outputfilename": "go-app-poc",
+  "wailsjsdir": "./frontend",
+  "author": {
+    "name": "dzonerzy",
+    "email": "dzonerzy@gmail.com"
+  }
+}
